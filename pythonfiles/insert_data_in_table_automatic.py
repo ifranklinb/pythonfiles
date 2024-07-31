@@ -1,5 +1,6 @@
 # # this code is to insert data randomly
 # # restaurants_master
+# make sure
 
 
 # import random
